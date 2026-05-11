@@ -1,1 +1,2 @@
-
+# No external packages needed - using only Python standard library
+# Project works with any Python 3.x installation
