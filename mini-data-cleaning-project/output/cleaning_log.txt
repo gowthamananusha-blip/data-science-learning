@@ -1,0 +1,5 @@
+Original rows: 8
+Cleaned rows: 3
+Rows removed: 5
+Metadata source: Example survey data
+Date created: 2025-03-15
