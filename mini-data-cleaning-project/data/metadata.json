@@ -1,0 +1,11 @@
+{
+  "source": "Example survey data",
+  "date_created": "2025-03-15",
+  "columns": {
+    "id": "integer",
+    "name": "string",
+    "age": "integer",
+    "city": "string",
+    "score": "float"
+  }
+}
